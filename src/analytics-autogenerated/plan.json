@@ -18,6 +18,10 @@
 										"string"
 									]
 								},
+								"button_style": {
+									"description": "",
+									"type": "string"
+								},
 								"button_text": {
 									"type": [
 										"string"
@@ -579,5 +583,5 @@
 		"identify_traits": [
 		]
 	},
-	"update_time": "2021-04-07T22:13:36.000Z"
+	"update_time": "2021-06-08T13:16:50.000Z"
 }
